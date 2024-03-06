@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: azure;
+    
+
+}
+
+
+ul
+{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+}
+/*mAIN8*/
+
+.gallery{
+    display: flex;
+    width: auto;
+}

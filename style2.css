@@ -1,0 +1,36 @@
+body{
+background-color: azure;
+
+}
+
+
+
+h1{
+
+color: rgb(148, 54, 57);
+font-size: larger;
+font-weight: bold;
+font-family: 'Workbench', sans-serif;
+
+}
+
+p{
+background-color: white;
+padding: 8px;
+border: 6px dotted pink;
+/* margin: 60px;*/
+}
+
+h2{
+    background-color: white;
+    padding: 8px;
+    border: 6px dotted pink;
+    /* margin: 60px;*/
+    }
+
+.favouriteheading {
+    background-color:plum;
+    padding: 8px;
+    border: 6px dotted pink;
+    /* margin: 60px;*/
+}
